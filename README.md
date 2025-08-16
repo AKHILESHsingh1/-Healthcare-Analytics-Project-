@@ -43,11 +43,11 @@ This project focuses on analyzing and visualizing **hospital patient waiting lis
 ### 📌 Summary View  
 ![Summary View](https://github.com/AKHILESHsingh1/-Healthcare-Analytics-Project-/blob/main/Snapshot%20Hospital%20Dashboard-1.png)  
 
-### 📌 Monthly Trend Analysis  
-![Trend Analysis](https://github.com/AKHILESHsingh1/-Healthcare-Analytics-Project-/blob/main/Snapshot%20Hospital%20Dashboard-2.png)  
+### 📌 Detailed View  
+![Detailed View](https://github.com/AKHILESHsingh1/-Healthcare-Analytics-Project-/blob/main/Snapshot%20Hospital%20Dashboard-2.png)  
 
-### 📌 Specialty & Age Breakdown  
-![Specialty Breakdown](https://github.com/AKHILESHsingh1/-Healthcare-Analytics-Project-/blob/main/Snapshot%20Hospital%20Dashboard-3.png)  
+### 📌 Tooltip  
+![Tooltip](https://github.com/AKHILESHsingh1/-Healthcare-Analytics-Project-/blob/main/Snapshot%20Hospital%20Dashboard-3.png)  
 
 ---
 
